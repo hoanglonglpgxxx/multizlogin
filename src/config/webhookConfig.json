@@ -9,6 +9,11 @@
       "messageWebhookUrl": "https://n8n.dieucanbiet.org/webhook-test/zalo-api1",
       "groupEventWebhookUrl": "https://n8n.dieucanbiet.org/webhook-test/zalo-api-group",
       "reactionWebhookUrl": "https://n8n.truongkinhdoanhlamdep.com/webhook/zalo-api-reaction-6789"
+    },
+    "718794700579515694": {
+      "messageWebhookUrl": "https://discord.com/api/webhooks/1437363345417044029/r-xHzclEP7BSBtertIDgREMPDyFscCjtkyexz3_VzOxlorE0bIRrrBQPovKfd5E8Fuo0",
+      "groupEventWebhookUrl": "https://discord.com/api/webhooks/1437363345417044029/r-xHzclEP7BSBtertIDgREMPDyFscCjtkyexz3_VzOxlorE0bIRrrBQPovKfd5E8Fuo0",
+      "reactionWebhookUrl": "https://discord.com/api/webhooks/1437363345417044029/r-xHzclEP7BSBtertIDgREMPDyFscCjtkyexz3_VzOxlorE0bIRrrBQPovKfd5E8Fuo0"
     }
   }
 }
